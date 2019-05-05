@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
   
-groceries[:dairy][:vegetable][:meat][:grains].map.values
+groceries[:dairy][:vegetable][:meat][:grains].values
 end
 end
 groceries
