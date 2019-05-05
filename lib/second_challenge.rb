@@ -10,7 +10,6 @@ def second_challenge
   
 groceries.each do |x, y|
   y.map do |itens|
-    end
    puts itens.values
  end
 end
