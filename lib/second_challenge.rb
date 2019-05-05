@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
   
-groceries[:dairy][:vegetable][:meat][:grains].values
+groceries.values.flatten
 end
 
 second_challenge(groceries)
