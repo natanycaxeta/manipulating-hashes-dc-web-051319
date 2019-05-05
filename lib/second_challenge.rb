@@ -13,7 +13,7 @@ groceries.each do |x, y|
   
  end
 end
- itens.values
+
 end
 
     
