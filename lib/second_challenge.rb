@@ -11,9 +11,6 @@ def second_challenge
 groceries.values.flatten
 end
 
-second_challenge(groceries)
-end
-
     
  
  
