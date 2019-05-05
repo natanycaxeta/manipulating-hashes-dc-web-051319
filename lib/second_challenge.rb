@@ -8,12 +8,7 @@ def second_challenge
 
   #code your solution here!
   
-groceries.each do |x, y|
-  y.map do |itens|
-  
- end
-end
-
+groceries[:dairy][:vegetable][:meat][:grains].values
 end
 
     
